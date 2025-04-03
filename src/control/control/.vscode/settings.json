@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/go4av05/new_ws/install/control/local/lib/python3.10/dist-packages",
+        "/home/go4av05/build_ws/install/nav_aruco_pkg/lib/python3.10/site-packages",
+        "/home/go4av05/build_ws/install/asbu_eyes/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/go4av05/new_ws/install/control/local/lib/python3.10/dist-packages",
+        "/home/go4av05/build_ws/install/nav_aruco_pkg/lib/python3.10/site-packages",
+        "/home/go4av05/build_ws/install/asbu_eyes/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
